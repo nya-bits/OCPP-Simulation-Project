@@ -11,13 +11,13 @@ This project simulates a full OCPP 1.6 environment:
 - Live meter values
 - Dynamic current limiting (SetChargingProfile)
 
-## 🚀 Features
+## Features
 - RemoteStartTransaction / RemoteStopTransaction
 - Heartbeat & BootNotification
 - MeterValues simulation
 - Smart charging (limit current via CLI)
 
-## 🛠️ How to run
+## How to run
 
 ### 1. Start CSMS (Node.js)
 ```bash
